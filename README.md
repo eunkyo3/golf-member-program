@@ -4,7 +4,7 @@
 ![image](https://github.com/eunkyo3/golf-program/assets/112944851/82f0e8f2-e6a3-4ae0-a08a-d6c88cae69f0)
 
 ## 강사조회 화면
-![image](https://github.com/eunkyo3/golf-program/assets/112944851/bbe24724-0864-49da-af25-457a073eddc6)
+![image](https://github.com/eunkyo3/golf-program/assets/112944851/63804276-6b18-442b-8b28-8f7df4d4dbc1)
 
 ## 수강신청 화면
 ![image](https://github.com/eunkyo3/golf-program/assets/112944851/3ed398ad-098e-47de-8992-f2ae0465bdf1)
